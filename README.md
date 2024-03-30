@@ -1,4 +1,4 @@
-This is an algorithm that uses deep RL techniques to solve mazes with variable difficulty. See pdf for specifications.
+This is an algorithm that uses deep RL techniques to solve mazes with variable difficulty.
 
 #### random environment.py
 It creates a random environment every time the Environment class is instantiated.
